@@ -39,6 +39,9 @@ I’m currently working on a personal finance management tool built on Nextjs, G
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>🤖&nbsp; Open Source</summary>
 
