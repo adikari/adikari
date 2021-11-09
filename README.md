@@ -24,11 +24,11 @@ colors
 <hr />
 
 <p align="left">
-I am a passionate software engineer with 10+ years of experience working in various stacks. I use my software development skills to solve problems in meaningful ways while focusing on User Experience and Usability.
+I am a polyglot software engineer with 10+ years of experience working in various stacks. I use my software development skills to solve problems in meaningful ways while focusing on User Experience and Usability. I am passionate about programming and am always looking to sharpen my skills or acquire new ones.
 
 These days I am mostly working in AWS, Serverless and React. Other than my day job, I spend most of my time working on personal and open source projects.
 
-I’m currently working on a personal finance management tool built on Nextjs, GraphQL deployed in AWS.
+I’m currently working on a personal finance management tool built with Nextjs, GraphQL deployed in AWS.
 </p>
 
 <hr/>
@@ -142,10 +142,19 @@ Vim script               1 repo              █░░░░░░░░░░�
   <summary>🗒&nbsp; Articles I have published</summary>
   <br />
 
-  - [Dependency injection in Javascript](https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49) - Tips on doing dependency injection using vanilla javascript!
-  - [Build and deploy GraphQL Server in AWS](https://medium.com/swlh/how-to-build-and-deploy-graphql-server-in-aws-lambda-using-nodejs-and-cloudformation-3e658cf9626f) - Build and deploy GraphQL Server in AWS Lambda using nodejs and cloudformation
-  - [Set up CI Pipeline for monorepo in Buildkite](https://medium.com/geekculture/set-up-continuous-integration-for-monorepo-using-buildkite-61539bb0ed76) - Set up continuous integration for Monorepo using Buildkite
-  - [Prepare for AWS CSA Certificate Exam](https://medium.com/@adikari/preparing-for-aws-certification-solutions-architect-associate-b3817eb627d8) - Tips of AWS Certificate Preparation
+- [Dependency injection in Javascript](https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49) - Tips on doing dependency injection using vanilla javascript!
+
+- [Build and deploy GraphQL Server in AWS](https://medium.com/swlh/how-to-build-and-deploy-graphql-server-in-aws-lambda-using-nodejs-and-cloudformation-3e658cf9626f) - Build and deploy GraphQL Server in AWS Lambda using nodejs and cloudformation
+
+- [Set up CI Pipeline for monorepo in Buildkite](https://medium.com/geekculture/set-up-continuous-integration-for-monorepo-using-buildkite-61539bb0ed76) - Set up continuous integration for Monorepo using Buildkite
+
+- [Prepare for AWS CSA Certificate Exam](https://medium.com/@adikari/preparing-for-aws-certification-solutions-architect-associate-b3817eb627d8) - Tips of AWS Certificate Preparation
+
+- [Vim style copy paste in linux](https://medium.com/@adikari/vim-style-copy-paste-in-tmux-dd6f1dc37c0e) - Tips on setting up Vim style copy paste in Tmux
+
+- [Resume bash script after reboot](https://medium.com/@adikari/resume-bash-script-after-reboot-6fc0371491c8) - Tips on writing bash script that can resume after machine reboot
+
+- [Set up laravel app with docker](https://medium.com/@adikari/setting-up-laravel-with-docker-part-1-d7d101cf864c) - 3 part series on running Laravel app in Docker
 
   [Read all articles >](https://medium.com/@adikari)
 </details>
