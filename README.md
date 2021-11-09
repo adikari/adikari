@@ -40,6 +40,13 @@ I’m currently working on a personal finance management tool built on Nextjs, G
 <br/>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   16 hrs 8 mins   █████████████░░░░░░░░░░░░   52.43 % 
+TypeScript   4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Terraform    3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Other        2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+JSON         1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
