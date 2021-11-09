@@ -95,8 +95,9 @@ Vim script               1 repo              █░░░░░░░░░░�
 
 <details>
   <summary>🤖&nbsp; Open Source</summary>
+  <br />
 
-<table>
+  <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
@@ -138,29 +139,30 @@ Vim script               1 repo              █░░░░░░░░░░�
 
 <!-- Recent medium articles -->
 <details>
-<summary>🗒&nbsp; Articles I have published</summary>
+  <summary>🗒&nbsp; Articles I have published</summary>
+  <br />
 
-- [Dependency injection in Javascript](https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49) - Tips on doing dependency injection using vanilla javascript!
-- [Build and deploy GraphQL Server in AWS](https://medium.com/swlh/how-to-build-and-deploy-graphql-server-in-aws-lambda-using-nodejs-and-cloudformation-3e658cf9626f) - Build and deploy GraphQL Server in AWS Lambda using nodejs and cloudformation
-- [Set up CI Pipeline for monorepo in Buildkite](https://medium.com/geekculture/set-up-continuous-integration-for-monorepo-using-buildkite-61539bb0ed76) - Set up continuous integration for Monorepo using Buildkite
-- [Prepare for AWS CSA Certificate Exam](https://medium.com/@adikari/preparing-for-aws-certification-solutions-architect-associate-b3817eb627d8) - Tips of AWS Certificate Preparation
+  - [Dependency injection in Javascript](https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49) - Tips on doing dependency injection using vanilla javascript!
+  - [Build and deploy GraphQL Server in AWS](https://medium.com/swlh/how-to-build-and-deploy-graphql-server-in-aws-lambda-using-nodejs-and-cloudformation-3e658cf9626f) - Build and deploy GraphQL Server in AWS Lambda using nodejs and cloudformation
+  - [Set up CI Pipeline for monorepo in Buildkite](https://medium.com/geekculture/set-up-continuous-integration-for-monorepo-using-buildkite-61539bb0ed76) - Set up continuous integration for Monorepo using Buildkite
+  - [Prepare for AWS CSA Certificate Exam](https://medium.com/@adikari/preparing-for-aws-certification-solutions-architect-associate-b3817eb627d8) - Tips of AWS Certificate Preparation
 
-[Read all articles >](https://medium.com/@adikari)
+  [Read all articles >](https://medium.com/@adikari)
 </details>
 
 <details>
-  <br />
   <summary>🧰&nbsp; My toolbox</summary>
-  	<ul>
-  	  <li><b>OS:</b> Mac OSX, Linux</li>
-	    <li><b>Laptop: </b> Macbook Pro (i7)</li>
-  	  <li><b>Browser: </b> Chrome, Brave</li>
-	    <li><b>Terminal: </b> iTerm (ZSH with Oh My Zsh)</li>
-	    <li><b>Code Editor:</b> Neo Vim</li>
-      <li><b>Platform:</b> AWS, Serverless, Buildkite</li>
-      <li><b>Language / Frameworks:</b> Javascript, Nodejs, Go, Nextjs, Serverless Framework</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github, Egghead.</li>
-	    <br />
-	    ⚛️ Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
-	</ul>
+  <br />
+  <ul>
+    <li><b>OS:</b> Mac OSX, Linux</li>
+      <li><b>Laptop: </b> Macbook Pro (i7)</li>
+    <li><b>Browser: </b> Chrome, Brave</li>
+      <li><b>Terminal: </b> iTerm (ZSH with Oh My Zsh)</li>
+      <li><b>Code Editor:</b> Neo Vim</li>
+  <li><b>Platform:</b> AWS, Serverless, Buildkite</li>
+  <li><b>Language / Frameworks:</b> Javascript, Nodejs, Go, Nextjs, Serverless Framework</li>
+      <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github, Egghead.</li>
+      <br />
+    💻&nbsp; Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
+  </ul>
 </details>
