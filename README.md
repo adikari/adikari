@@ -1,6 +1,5 @@
-<!-- 
-
-colors 
+<!--
+colors
   - yellow: #F7D767
   - red: #F75C7E
   - black: 20222E
@@ -25,10 +24,10 @@ colors
 <hr />
 
 <p align="left">
-I am a passionate software engineer with 10+ years of experience working in various stacks. I use my software development skills to solve problems in meaningful ways while focusing on User Experience and Usability. 
+I am a passionate software engineer with 10+ years of experience working in various stacks. I use my software development skills to solve problems in meaningful ways while focusing on User Experience and Usability.
 
-These days I am mostly working in AWS, Serverless and React. Other than my day job, I spend most of my time working on personal and open source projects. 
-  
+These days I am mostly working in AWS, Serverless and React. Other than my day job, I spend most of my time working on personal and open source projects.
+
 I’m currently working on a personal finance management tool built on Nextjs, GraphQL deployed in AWS.
 </p>
 
@@ -42,7 +41,7 @@ I’m currently working on a personal finance management tool built on Nextjs, G
 
 <details>
   <summary>🤖&nbsp; Open Source</summary>
-  
+
 <table>
     <thead align="center">
       <tr border: none;>
@@ -95,7 +94,7 @@ I’m currently working on a personal finance management tool built on Nextjs, G
 [Read all articles >](https://medium.com/@adikari)
 </details>
 
-<details>	
+<details>
   <br />
   <summary>🧰&nbsp; My toolbox</summary>
   	<ul>
@@ -108,21 +107,6 @@ I’m currently working on a personal finance management tool built on Nextjs, G
       <li><b>Language / Frameworks:</b> Javascript, Nodejs, Go, Nextjs, Serverless Framework</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github, Egghead.</li>
 	    <br />
-	⚛️ Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
-	</ul>	
+	    ⚛️ Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
+	</ul>
 </details>
-
-<!--
-**adikari/adikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
