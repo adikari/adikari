@@ -1,8 +1,9 @@
 <!-- 
 
 colors 
-  - purple: #9400d3
-
+  - yellow: #F7D767
+  - red: #F75C7E
+  - black: 20222E
 -->
 
 <h3 align="center">
@@ -10,14 +11,15 @@ colors
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Polyglot%20software%20Engineer%3B10%2B%20years%20of%20experience%3BSpecialised%20in%20Serverless%20and%20AWS%3BProud%20father%20of%20twin%20daughters;Learn%20all%20the%20things&font=Fira%20Code&center=true&width=440&height=45&color=9a2ca0&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Polyglot%20software%20Engineer%3B10%2B%20years%20of%20experience%3BSpecialised%20in%20Serverless%20and%20AWS%3BProud%20father%20of%20twin%20daughters;Learn%20all%20the%20things&center=true&width=440&height=45&color=F7D767&vCenter=true&size=22"></a>
 </p>
 
-
 <p align="center">
-  <a href="https://linkedin.com/in/adikari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
-    <a href="https://twitter.com/adikari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="linkedin"/></a>
-    <a href="https://subash.com.au" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
+  <a href="https://linkedin.com/in/adikari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-F75C7E?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
+    <a href="https://twitter.com/adikari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-F75C7E?style=flat-square&logo=Twitter&logoColor=white" alt="linkedin"/></a>
+    <a href="https://subash.com.au" target="_blank"><img src="https://img.shields.io/badge/Website-F75C7E?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
+    <a href="https://medium.com/@adikari" target="_blank"><img src="https://img.shields.io/badge/Medium-F75C7E?style=flat-square&logo=medium&logoColor=white" alt="website"/></a>
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=adikari.adikari&style=flat-square&color=F75C7E&labelColor=F75C7E&logo=GitHub" />
 </p>
 
 <hr />
@@ -26,28 +28,66 @@ colors
 I am a passionate software engineer with 10+ years of experience working in various stacks. I use my software development skills to solve problems in meaningful ways while focusing on User Experience and Usability. 
 
 These days I am mostly working in AWS, Serverless and React. Other than my day job, I spend most of my time working on personal and open source projects. 
+  
+I’m currently working on a personal finance management tool built on Nextjs, GraphQL deployed in AWS.
 </p>
+
 
 ### 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="left">
-    <img title="Github stream" alt="adikari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adikari&theme=monokai-metallian&hide_border=true"/>
-  </a>
+
+<p>
+<img align="left" width="217px" title="Github stream" alt="adikari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adikari&theme=monokai-metallian&hide_border=true"/>
+
+<img align="right" width="217px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikari&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-
 <details>
-  <summary>Open Source</summary>
+  <summary>🤖&nbsp; Open Source</summary>
   
-  - [Oprah](https://github.com/ACloudGuru/oprah) - Configuration management tool for serverless projects
-  - [Buildkite monorepo plugin](https://github.com/chronotc/monorepo-diff-buildkite-plugin) - Buildkite plugin to manage CI pipeline for monorepo
-  - [Serverless plugin AWS Alert](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - Serverless plugin to create Cloudwatch alerts and dashboard
+<table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+       <tr>
+	      <td><a href="https://github.com/ACloudGuru/serverless-plugin-aws-alerts">Serverless Plugin AWS Alerts</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ACloudGuru/serverless-plugin-aws-alerts?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ACloudGuru/serverless-plugin-aws-alerts?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ACloudGuru/serverless-plugin-aws-alerts?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ACloudGuru/serverless-plugin-aws-alerts?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ACloudGuru/serverless-plugin-aws-alerts?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/chronotc/monorepo-diff-buildkite-plugin">Buildkite Monorepo Plugin</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/chronotc/monorepo-diff-buildkite-plugin?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/chronotc/monorepo-diff-buildkite-plugin?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/chronotc/monorepo-diff-buildkite-plugin?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/chronotc/monorepo-diff-buildkite-plugin?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/chronotc/monorepo-diff-buildkite-plugin?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ACloudGuru/oprah">Oprah</a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ACloudGuru/oprah?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ACloudGuru/oprah?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ACloudGuru/oprah?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ACloudGuru/oprah?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ACloudGuru/oprah?style=flat-square&labelColor=F75C7E&color=F7D767"/></td>
+      </tr>
+    </tbody>
+</table>
 </details>
 
 <!-- Recent medium articles -->
 <details>
-<summary>Articles I have published</summary>
+<summary>🗒&nbsp; Articles I have published</summary>
 
 - [Dependency injection in Javascript](https://medium.com/geekculture/dependency-injection-in-javascript-2d2e4ad9df49) - Tips on doing dependency injection using vanilla javascript!
 - [Build and deploy GraphQL Server in AWS](https://medium.com/swlh/how-to-build-and-deploy-graphql-server-in-aws-lambda-using-nodejs-and-cloudformation-3e658cf9626f) - Build and deploy GraphQL Server in AWS Lambda using nodejs and cloudformation
@@ -57,6 +97,22 @@ These days I am mostly working in AWS, Serverless and React. Other than my day j
 [Read all articles >](https://medium.com/@adikari)
 </details>
 
+<details>	
+  <br />
+  <summary>🧰&nbsp; My toolbox</summary>
+  	<ul>
+  	  <li><b>OS:</b> Mac OSX, Linux</li>
+	    <li><b>Laptop: </b> Macbook Pro (i7)</li>
+  	  <li><b>Browser: </b> Chrome, Brave</li>
+	    <li><b>Terminal: </b> iTerm (ZSH with Oh My Zsh)</li>
+	    <li><b>Code Editor:</b> Neo Vim</li>
+      <li><b>Platform:</b> AWS, Serverless, Buildkite</li>
+      <li><b>Language / Frameworks:</b> Javascript, Nodejs, Go, Nextjs, Serverless Framework</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github, Egghead.</li>
+	    <br />
+	⚛️ Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
+	</ul>	
+</details>
 
 <!--
 **adikari/adikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
