@@ -32,16 +32,14 @@ These days I am mostly working in AWS, Serverless and React. Other than my day j
 I’m currently working on a personal finance management tool built on Nextjs, GraphQL deployed in AWS.
 </p>
 
+<hr/>
 
-### 🔥 Streak stats
+<img align="left" title="Github stream" alt="adikari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adikari&theme=monokai-metallian&hide_border=true"/>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikari&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 
-<p>
-<img align="left" width="217px" title="Github stream" alt="adikari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adikari&theme=monokai-metallian&hide_border=true"/>
+<br/>
 
-<img align="right" width="217px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikari&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 <details>
   <summary>🤖&nbsp; Open Source</summary>
   
