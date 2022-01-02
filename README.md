@@ -63,15 +63,13 @@ Sunday       108 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JavaScript               1 hr 43 mins        ███████████████████████░░   94.16% 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 50 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +86,7 @@ Vim script               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 <details>
