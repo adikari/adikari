@@ -65,13 +65,13 @@ Sunday       96 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 15 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   5 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ Vim script               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2022 00:53:23 UTC
+ Last Updated on 24/05/2022 01:01:48 UTC
 <!--END_SECTION:waka-->
 
 <details>
