@@ -34,7 +34,7 @@ I’m currently working on a personal finance management tool built with Nextjs,
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C053%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C061%20hrs%2051%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -92,7 +92,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2023 00:52:50 UTC
+ Last Updated on 29/01/2023 00:56:28 UTC
 <!--END_SECTION:waka-->
 
 <details>
