@@ -34,7 +34,7 @@ I’m currently working on a personal finance management tool built with Nextjs,
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C154%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C154%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -89,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 00:51:37 UTC
+ Last Updated on 24/02/2023 00:53:18 UTC
 <!--END_SECTION:waka-->
 
 <details>
