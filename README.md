@@ -158,14 +158,13 @@ Kotlin                   1 repo              █░░░░░░░░░░�
   <summary>🧰&nbsp; My toolbox</summary>
   <br />
   <ul>
-    <li><b>OS:</b> Mac OSX, Linux</li>
-      <li><b>Laptop: </b> Macbook Pro (i7)</li>
-    <li><b>Browser: </b> Chrome, Brave</li>
-      <li><b>Terminal: </b> iTerm (ZSH with Oh My Zsh)</li>
+    <li><b>OS:</b> Arch Linux</li>
+      <li><b>Laptop: </b> Lenovo Thinkpad</li>
+    <li><b>Browser: </b> Brave</li>
+      <li><b>Terminal: </b> Kitty with Tmux</li>
       <li><b>Code Editor:</b> Neo Vim</li>
-  <li><b>Platform:</b> AWS, Serverless, Buildkite</li>
-  <li><b>Language / Frameworks:</b> Javascript, Nodejs, Go, Nextjs, Serverless Framework</li>
-      <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github, Egghead.</li>
+  <li><b>Language / Frameworks:</b> Javascript / Typescript, Nodejs, Go, Nextjs</li>
+      <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter, Github.</li>
       <br />
     💻&nbsp; Checkout My Dotfiles Configrations <a href="https://github.com/adikari/dotfiles">Here</a>.
   </ul>
