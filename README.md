@@ -18,7 +18,8 @@ colors
     <a href="https://twitter.com/adikari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-F75C7E?style=flat-square&logo=Twitter&logoColor=white" alt="linkedin"/></a>
     <a href="https://subash.com.au" target="_blank"><img src="https://img.shields.io/badge/Website-F75C7E?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
     <a href="https://medium.com/@adikari" target="_blank"><img src="https://img.shields.io/badge/Medium-F75C7E?style=flat-square&logo=medium&logoColor=white" alt="website"/></a>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/adikari?style=flat-square&logo=github&logoColor=white">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/adikari?style=flat-square&logo=github&label=Followers&labelColor=%23F75C7E&color=%23F75C7E">
+
 
 </p>
 
