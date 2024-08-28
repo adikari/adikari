@@ -18,7 +18,8 @@ colors
     <a href="https://twitter.com/adikari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-F75C7E?style=flat-square&logo=Twitter&logoColor=white" alt="linkedin"/></a>
     <a href="https://subash.com.au" target="_blank"><img src="https://img.shields.io/badge/Website-F75C7E?style=flat-square&logo=google-chrome&logoColor=white" alt="website"/></a>
     <a href="https://medium.com/@adikari" target="_blank"><img src="https://img.shields.io/badge/Medium-F75C7E?style=flat-square&logo=medium&logoColor=white" alt="website"/></a>
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=adikari.adikari&style=flat-square&color=F75C7E&labelColor=F75C7E&logo=GitHub" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/adikari?style=flat-square&logo=github&logoColor=white">
+
 </p>
 
 <hr />
@@ -34,7 +35,7 @@ I’m currently working on a personal finance management tool built with Nextjs,
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C417%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C417%20hrs%2035%20mins-blue?style=flat-square&logoColor=white)
 
 **I'm an Early 🐤** 
 
